@@ -2,8 +2,8 @@
 <img src="wave.gif" height="32"/ ></h1>
 <h3 align="center">QA Lead from Russia 🇷🇺</h3>
 
-You can find me on [<img src="Telegram.svg" height="50px" align="center">](https://t.me/IraRubi), or
-on [<img src="icons8-линкедин.svg" height="50px" align="center">](https://www.linkedin.com/in/rubinshteyn/)
+You can find me on [<img src="Telegram.svg" height="25px" align="center">](https://t.me/IraRubi), or
+on [<img src="icons8-линкедин.svg" height="25px" align="center">](https://www.linkedin.com/in/rubinshteyn/)
 
 
 
