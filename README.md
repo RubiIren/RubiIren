@@ -36,8 +36,18 @@ on [<img src="icons8-линкедин.svg" height="50px" align="center">](https:
             <img width="10%" title="Jira" src="Jira.svg">   
         </td>
     </tr>
-
+  </table>
+  
+# 🤔 Certificates
+<table cellpadding=0 cellspacing=0>
+    <tr>
+        <td>
+            <img width="45%" title="ISTQB" src="ISTQB.png">
+            <img width="45%" title="Java Programming" src="Java.png">
+        </td>
+    </tr>
 </table>
+
 <img align="right" src="https://komarev.com/ghpvc/?username=RubiIren&color=003140">
 <!--
 **RubiIren/RubiIren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
